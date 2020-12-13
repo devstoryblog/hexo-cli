@@ -1,6 +1,6 @@
 {
-  "name": "hexo-cli",
-  "version": "4.2.0",
+  "name": "@devstoryblog/hexo-cli",
+  "version": "4.2.0-fork.1",
   "description": "Command line interface for Hexo",
   "main": "lib/hexo",
   "bin": {
@@ -20,7 +20,7 @@
     "lib": "./lib",
     "bin": "./bin"
   },
-  "repository": "hexojs/hexo-cli",
+  "repository": "devstoryblog/hexo-cli",
   "homepage": "https://hexo.io/",
   "keywords": [
     "website",
